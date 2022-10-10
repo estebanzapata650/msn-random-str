@@ -1,0 +1,27 @@
+{
+  "name": "msn-random-str",
+  "version": "1.0.0",
+  "description": "random string messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanzapata650/msn-random-str.git"
+  },
+  "keywords": [
+    "npm",
+    "git"
+  ],
+  "author": "Esteban Zapata <estebanzapata650@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estebanzapata650/msn-random-str/issues"
+  },
+  "homepage": "https://github.com/estebanzapata650/msn-random-str#readme",
+  "bin": {
+    "msn-random-str" : "./bin/global.js"
+  },
+  "preferGlobal": true
+}
